@@ -1,2 +1,2 @@
 # Flashcard-Generator
-Create the backend for a basic flashcard application using node.js and inquirer
+The backend will essentially constitute an API that allows users to create two types of flashcards.

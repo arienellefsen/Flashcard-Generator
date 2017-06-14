@@ -1,0 +1,22 @@
+{
+  "name": "flash",
+  "version": "1.0.0",
+  "description": "The backend will essentially constitute an API that allows users to create two types of flashcards.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arienellefsen/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arienellefsen/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/arienellefsen/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.0"
+  }
+}
